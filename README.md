@@ -8,7 +8,7 @@ go to _insert website url here_
 
 ## Authors
 
-Created by Ryan Grunest. Design by Keywan.
+Created by Ryan Grunest. Design by Keywan Tafteh.
 
 ## License
 
