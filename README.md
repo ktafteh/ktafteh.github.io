@@ -1,4 +1,4 @@
-# Keywan Tafteh
+# Keywan
 
 KeywanTafteh.com is a website build for an artist based in San Diego, California displaying images and other personal content.
 
